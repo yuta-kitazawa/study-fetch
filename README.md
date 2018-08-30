@@ -1,2 +1,2 @@
 # study-fetch
-- READMEの編集。
+- READMEの編集2。
